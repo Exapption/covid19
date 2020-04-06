@@ -5,7 +5,7 @@ body {
 
 .home-bg  {
     /*background-image: url('../assets/header-banner.png');*/
-    background-color: rgba(28, 30, 31, 0.82);
+    background-color: #fafafa;
     background-repeat: no-repeat;
     height: 600px;
     background-position: 100% 100%;
@@ -318,7 +318,7 @@ input[type=radio] {
 .learn-more {
     position: absolute;
     bottom: 0;
-    color: #fff;
+    color: #000;
     font-size: 1.2em;
     border: 1px solid #EA4335;
     padding: 12px 25px;
