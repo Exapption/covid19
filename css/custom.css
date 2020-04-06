@@ -4,7 +4,8 @@ body {
 }
 
 .home-bg  {
-    background-image: url('../assets/header-banner.png');
+    /*background-image: url('../assets/header-banner.png');*/
+    background-color: rgba(28, 30, 31, 0.82);
     background-repeat: no-repeat;
     height: 600px;
     background-position: 100% 100%;
@@ -319,7 +320,7 @@ input[type=radio] {
     bottom: 0;
     color: #fff;
     font-size: 1.2em;
-    border: 1px solid rgb(144, 248, 254);
+    border: 1px solid #EA4335;
     padding: 12px 25px;
     border-radius: 40px;
     left: 50%;
